@@ -1,2 +1,2 @@
 # rsschool-cv
-# create CV file
+# create cv file
