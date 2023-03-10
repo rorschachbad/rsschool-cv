@@ -1,2 +1,2 @@
 # rsschool-cv
-# create cv file
+# https://rorschachbad.github.io/rsschool-cv/cv
