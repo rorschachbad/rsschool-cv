@@ -1,2 +1,2 @@
 # rsschool-cv
-# https://rorschachbad.github.io/rsschool-cv/cv
+https://rorschachbad.github.io/rsschool-cv/
